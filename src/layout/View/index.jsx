@@ -7,9 +7,9 @@ import './style.scss'
 
 const View = ({ children }) => {
   return (
-    <div className="l_view__wrapper">
+    <div>
       <Header />
-      <div className="l_view__container">
+      <div className="container-main">
         {children}
       </div>
       <Footer />
