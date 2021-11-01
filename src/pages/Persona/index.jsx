@@ -8,7 +8,7 @@ const Persona = ()  => {
         try {
             await fetch("https://randomuser.me/api/")
                         .then((response) => response.json())
-                        .then((data) => {console.log(data.results); return setPosts(data.results)});
+                        .then((data) => { return setPosts(data.results)});
         }catch(error) {
             console.log(error)
         }
@@ -18,7 +18,7 @@ const Persona = ()  => {
     
     return (
         <div>
-            <h3 className="text-muted">RandomAPI</h3>
+            <h3 className="text-muted">RandomAPI <button type="button" onClick={()=>{fetchData();}} className="btn btn-success">Ver Otro</button> </h3>
             {posts.length ? posts.map((element,index) => {
                         return (
                             <div className="card" key={index.toString()}> 
