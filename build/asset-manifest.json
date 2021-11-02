@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rutas-react-g3/static/css/main.7afae2f6.chunk.css",
+    "main.js": "/rutas-react-g3/static/js/main.b096ad75.chunk.js",
+    "main.js.map": "/rutas-react-g3/static/js/main.b096ad75.chunk.js.map",
+    "runtime-main.js": "/rutas-react-g3/static/js/runtime-main.40a155cd.js",
+    "runtime-main.js.map": "/rutas-react-g3/static/js/runtime-main.40a155cd.js.map",
+    "static/js/2.79e4516c.chunk.js": "/rutas-react-g3/static/js/2.79e4516c.chunk.js",
+    "static/js/2.79e4516c.chunk.js.map": "/rutas-react-g3/static/js/2.79e4516c.chunk.js.map",
+    "static/js/3.6654ec48.chunk.js": "/rutas-react-g3/static/js/3.6654ec48.chunk.js",
+    "static/js/3.6654ec48.chunk.js.map": "/rutas-react-g3/static/js/3.6654ec48.chunk.js.map",
+    "index.html": "/rutas-react-g3/index.html",
+    "static/css/main.7afae2f6.chunk.css.map": "/rutas-react-g3/static/css/main.7afae2f6.chunk.css.map",
+    "static/js/2.79e4516c.chunk.js.LICENSE.txt": "/rutas-react-g3/static/js/2.79e4516c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40a155cd.js",
+    "static/js/2.79e4516c.chunk.js",
+    "static/css/main.7afae2f6.chunk.css",
+    "static/js/main.b096ad75.chunk.js"
+  ]
+}
